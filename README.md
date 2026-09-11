@@ -1,6 +1,6 @@
 ## 在蛮荒之地淘金  数据包
 
-![](https://s41.ax1x.com/2026/09/11/pnZXpJf.jpg)
+![](https://s41.ax1x.com/2026/09/12/pneQskn.jpg)
 
 ### 简介
 
@@ -14,7 +14,7 @@
 
 ### 特性
 
-大部分结构、地物和矿脉不会生成。例如树林、村庄、恶地地貌。
+大部分结构、地物和矿脉不会生成。例如树林、普通村庄、恶地地貌。
 
 但各生物群系的其他特性不受影响，例如生成生物和怪物的条件、温度、深度、天气、出现的位置等均不受影响。
 
@@ -27,17 +27,18 @@
 | 结构名称 | 分布情况 |ID/标签|
 | -------- |-------- | -------- |
 | 要塞     | 正常生成 | minecraft:stronghold |
-| 下界要塞 | 正常生成 | minecraft:fortress |
 | 废弃矿井 | 正常生成 | #minecraft:mineshaft |
 | 古迹废墟 | 主世界概率生成，而不是仅在特定群系 | minecraft:trail_ruins |
 | 废弃营地（蛮荒） | 主世界概率生成，而不是仅在特定群系 | #gold_in_wilderness:abandoned_camp |
+| 僵尸村庄（蛮荒） | 主世界概率生成，而不是仅在特定群系 | #gold_in_wilderness:villages |
+| 下界要塞 | 正常生成 | minecraft:fortress |
 | 下界化石 | 下界概率生成，更加稀疏 | minecraft:nether_fossil |
 
 　
 
 ### 图
 
-![](https://s41.ax1x.com/2026/09/11/pnZXPSS.jpg)
+![](https://s41.ax1x.com/2026/09/12/pneQyYq.jpg)
 
-![](https://s41.ax1x.com/2026/09/11/pnZXckt.jpg)
+![](https://s41.ax1x.com/2026/09/12/pneQDTs.jpg)
 
