@@ -1,0 +1,31 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 91231127,
+    "separation": 8,
+    "spacing": 37,
+    "frequency": 0.2777777777777
+  },
+  "structures": [
+    {
+      "structure": "gold_in_wilderness:abandoned_camp/meadow",
+      "weight": 1
+    },
+    {
+      "structure": "gold_in_wilderness:abandoned_camp/pale_garden",
+      "weight": 1
+    },
+    {
+      "structure": "gold_in_wilderness:abandoned_camp/savanna",
+      "weight": 1
+    },
+    {
+      "structure": "gold_in_wilderness:abandoned_camp/swamp",
+      "weight": 1
+    },
+    {
+      "structure": "gold_in_wilderness:abandoned_camp/wooded_badlands",
+      "weight": 1
+    }
+  ]
+}

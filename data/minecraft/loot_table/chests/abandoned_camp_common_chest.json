@@ -1,0 +1,497 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 4
+          }
+          ],
+          "name": "minecraft:arrow"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:moss_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 4,
+              "min": 2
+            }
+          }
+          ],
+          "name": "minecraft:bone"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:cobweb"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:compass"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 2,
+              "min": 1
+            }
+          }
+          ],
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 4,
+              "min": 2
+            }
+          }
+          ],
+          "name": "minecraft:gunpowder"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:fishing_rod"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:flint_and_steel"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 4,
+              "min": 1
+            }
+          }
+          ],
+          "name": "minecraft:glass_bottle"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 3,
+              "min": 1
+            }
+          }
+          ],
+          "name": "minecraft:lead"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 4,
+              "min": 1
+            }
+          }
+          ],
+          "name": "minecraft:leather"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:bundle"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 4,
+              "min": 1
+            }
+          }
+          ],
+          "name": "minecraft:rabbit_hide"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:saddle"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": {
+              "type": "minecraft:uniform",
+              "max": 3,
+              "min": 1
+            }
+          }
+          ],
+          "name": "minecraft:white_candle"
+        }
+      ],
+      "rolls": {
+        "type": "minecraft:uniform",
+        "max": 6,
+        "min": 4
+      }
+    },
+    {
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:bow"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:bucket"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:copper_axe"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:copper_boots"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:copper_chestplate"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:copper_leggings"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:copper_spear"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:copper_sword"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:spyglass"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+            "function": "minecraft:set_count",
+            "count": 1
+          }
+          ],
+          "name": "minecraft:shears"
+        }
+      ],
+      "rolls": 2
+    },
+    {
+      "entries": [
+                {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_lore",
+              "lore": ["想你的风还是吹到了……呃……哪？"],
+              "mode": "replace_all"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_lore",
+              "lore": ["这本该是一张探险家地图，可现在不是。"],
+              "mode": "replace_all"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_lore",
+              "lore": ["你以为你有地图就知道自己该去哪吗？"],
+              "mode": "replace_all"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_lore",
+              "lore": ["伙计，我该去哪？"],
+              "mode": "replace_all"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_lore",
+              "lore": ["春，夏，秋，冬……我只知道现在天亮了。"],
+              "mode": "replace_all"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_lore",
+              "lore": ["孤独，孤独，孤独、孤独……孤独！孤独！！孤——独！"],
+              "mode": "replace_all"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_lore",
+              "lore": ["这是哪啊？"],
+              "mode": "replace_all"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_lore",
+              "lore": ["这是什么地方啊？"],
+              "mode": "replace_all"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_lore",
+              "lore": ["敢问路在何方"],
+              "mode": "replace_all"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "functions": [
+            {
+              "function": "set_lore",
+              "lore": ["这是一张聪明人才能看懂的藏宝图，宝藏在你的心里。"],
+              "mode": "replace_all"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map"
+        },
+        {
+          "type": "minecraft:empty"
+        },
+        {
+          "type": "minecraft:empty"
+        },
+        {
+          "type": "minecraft:empty"
+        },
+        {
+          "type": "minecraft:empty"
+        },
+        {
+          "type": "minecraft:empty"
+        },
+        {
+          "type": "minecraft:empty"
+        },
+        {
+          "type": "minecraft:empty"
+        },
+        {
+          "type": "minecraft:empty"
+        },
+        {
+          "type": "minecraft:empty"
+        },
+        {
+          "type": "minecraft:empty"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "minecraft:chests/abandoned_camp_common_chest"
+}
