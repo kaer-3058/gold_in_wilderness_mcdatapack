@@ -17,7 +17,8 @@
         "sound": "minecraft:music.under_water"
       }
     },
-    "minecraft:visual/sky_color": "#7ba4ff",
+    "minecraft:visual/sky_color": "#f0ecd7",
+    "minecraft:visual/fog_color": "#f0ecd7",
     "minecraft:visual/water_fog_color": "#041f33"
   },
   "carvers": [

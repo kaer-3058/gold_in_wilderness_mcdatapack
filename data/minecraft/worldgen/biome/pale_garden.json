@@ -3,7 +3,8 @@
     "minecraft:audio/background_music": {},
     "minecraft:audio/music_volume": 0.0,
     "minecraft:visual/fog_color": "#817770",
-    "minecraft:visual/sky_color": "#b9b9b9",
+    "minecraft:visual/sky_color": "#f0ecd7",
+    "minecraft:visual/fog_color": "#f0ecd7",
     "minecraft:visual/water_fog_color": "#556980"
   },
   "carvers": [

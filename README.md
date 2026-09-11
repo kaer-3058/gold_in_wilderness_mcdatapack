@@ -1,6 +1,6 @@
 ## 在蛮荒之地淘金  数据包
 
-![](https://s41.ax1x.com/2026/09/12/pneQskn.jpg)
+![](https://s41.ax1x.com/2026/09/12/pne1rR0.jpg)
 
 ### 简介
 
@@ -38,7 +38,8 @@
 
 ### 图
 
-![](https://s41.ax1x.com/2026/09/12/pneQyYq.jpg)
+![](https://s41.ax1x.com/2026/09/12/pne1DGq.jpg)
 
 ![](https://s41.ax1x.com/2026/09/12/pneQDTs.jpg)
 
+![](https://s41.ax1x.com/2026/09/12/pne1szV.jpg)

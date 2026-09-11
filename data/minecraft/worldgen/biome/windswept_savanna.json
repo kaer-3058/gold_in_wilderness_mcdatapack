@@ -1,7 +1,8 @@
 {
   "attributes": {
     "minecraft:gameplay/snow_golem_melts": true,
-    "minecraft:visual/sky_color": "#6eb1ff"
+    "minecraft:visual/sky_color": "#f0ecd7",
+    "minecraft:visual/fog_color": "#f0ecd7"
   },
   "carvers": [
     "minecraft:cave",
